@@ -1,0 +1,20 @@
+.search-container{
+    justify-content: center;
+    align-items: center;
+}
+.search-input{
+    width: 50%;
+    height: 50px;
+    border-radius: 5px;
+}
+.search-btn{
+    padding-left: 5%;
+    padding-right: 5%;
+    height: 50px;
+}
+.card-style{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}

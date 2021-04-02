@@ -1,0 +1,33 @@
+.book-card{
+    width: 18rem;
+    text-align: center;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 20px;
+    margin: 2%;
+    padding: 10px;
+    background-color: rgba(190, 190, 185, 0.39);
+}
+.book-card img{
+    width: 10rem;
+    padding-top: 5px;
+    padding-bottom: 7px;
+}
+.book-card-footer{
+    display: flex;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    justify-content: space-between;
+}
+.book-card h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(9, 66, 9);
+}
+.book-card h5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    padding-top: 5px;
+}
+.book-card p{
+    color: rgb(87, 85, 85);
+}

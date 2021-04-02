@@ -1,0 +1,11 @@
+.checkout-container{
+    background-color: rgba(184, 180, 180, 0.911);
+    border-radius: 20px;
+}
+.checkout-detail{
+    background-color: white;
+    border-radius: 20px;
+}
+.checkout-btn{
+   margin-left: 500px;
+}

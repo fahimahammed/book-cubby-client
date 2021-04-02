@@ -1,0 +1,27 @@
+.login-btn{
+    text-align: center;
+    margin: 5% auto 0 auto;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px gray;
+    background-color: honeydew;
+    width: 35%;
+    padding: 5% 2%;
+}
+.login-btn img{
+    width: 70%;
+}
+.login-btn button{
+    width: 18rem;
+    padding: 5px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px gray;
+}
+.login-btn button:hover{
+    background-color: rgb(2, 85, 6);
+    color: white;
+}
+.login-btn h3{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    color: rgb(2, 54, 2);
+}
